@@ -1,5 +1,27 @@
 # @modern-js/plugin-testing
 
+## 1.5.7
+
+### Patch Changes
+
+- 77a8e9e1b: fix: remove bff-utils
+- Updated dependencies [77a8e9e1b]
+- Updated dependencies [06b411dc3]
+- Updated dependencies [5d4806f86]
+- Updated dependencies [63c354ad5]
+- Updated dependencies [4165e50c7]
+- Updated dependencies [073e9ad78]
+- Updated dependencies [cda99c441]
+- Updated dependencies [b96dcf364]
+- Updated dependencies [f4a7d49e1]
+- Updated dependencies [9e36d3a01]
+- Updated dependencies [30b1bf701]
+  - @modern-js/testing-plugin-bff@1.5.0
+  - @modern-js/webpack@1.11.1
+  - @modern-js/utils@1.7.8
+  - @modern-js/runtime-core@1.5.1
+  - @modern-js/testing@1.5.4
+
 ## 1.5.6
 
 ### Patch Changes

@@ -1,5 +1,21 @@
 # @modern-js/server-plugin
 
+## 1.4.0
+
+### Minor Changes
+
+- 77a8e9e1b: feat: support bff operators
+
+### Patch Changes
+
+- Updated dependencies [63c354ad5]
+- Updated dependencies [073e9ad78]
+- Updated dependencies [b7302f781]
+- Updated dependencies [f4a7d49e1]
+- Updated dependencies [e0e708f83]
+  - @modern-js/utils@1.7.8
+  - @modern-js/plugin@1.3.8
+
 ## 1.3.5
 
 ### Patch Changes

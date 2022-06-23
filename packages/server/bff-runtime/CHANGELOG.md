@@ -1,5 +1,16 @@
 # @modern-js/bff-runtime
 
+## 1.3.0
+
+### Minor Changes
+
+- 77a8e9e1b: feat: support bff operators
+
+### Patch Changes
+
+- 4d5ca46d4: chore: remove farrow-http from dependencies
+  - @modern-js/server-utils@1.2.11
+
 ## 1.2.4
 
 ### Patch Changes

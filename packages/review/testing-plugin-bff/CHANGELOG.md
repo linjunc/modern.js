@@ -1,5 +1,24 @@
 # @modern-js/testing-plugin-bff
 
+## 1.5.0
+
+### Minor Changes
+
+- 77a8e9e1b: feat: support bff operators
+
+### Patch Changes
+
+- Updated dependencies [77a8e9e1b]
+- Updated dependencies [63c354ad5]
+- Updated dependencies [073e9ad78]
+- Updated dependencies [f4a7d49e1]
+- Updated dependencies [3172e1ee1]
+  - @modern-js/bff-core@1.1.0
+  - @modern-js/bff-utils@1.3.0
+  - @modern-js/server@1.5.0
+  - @modern-js/utils@1.7.8
+  - @modern-js/testing@1.5.4
+
 ## 1.4.4
 
 ### Patch Changes

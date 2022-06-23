@@ -1,6 +1,6 @@
 {
   "name": "api-service-koa",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "dev": "modern dev",
     "build": "modern build",
